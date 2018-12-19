@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ismail samir\documents\visual studio 2017\projects\learnopengl\learnopengl\main.cpp(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ismail samir\documents\visual studio 2017\projects\learnopengl\learnopengl\main.cpp(205): warning C4101: 'v': unreferenced local variable
+  learnOpenGL.vcxproj -> C:\Users\Ismail Samir\Documents\Visual Studio 2017\Projects\learnOpenGL\Debug\learnOpenGL.exe
